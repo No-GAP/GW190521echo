@@ -20,8 +20,6 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 (BIBTEX)
 
-We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
-
 @article{Abedi:2016hgu,
     author = "Abedi, Jahed and Dykaar, Hannah and Afshordi, Niayesh",
     title = "{Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons}",
