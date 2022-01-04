@@ -20,16 +20,12 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 (BIBTEX)
 
-@article{Abedi:2016hgu,
-    author = "Abedi, Jahed and Dykaar, Hannah and Afshordi, Niayesh",
-    title = "{Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons}",
-    eprint = "1612.00266",
+@article{Abedi:2021tti,
+    author = "Abedi, Jahed and Micchi, Lu\'\i{}s Felipe Longo and Afshordi, Niayesh",
+    title = "{GW190521: First Measurement of Stimulated Hawking Radiation from Black Holes}",
+    eprint = "2201.00047",
     archivePrefix = "arXiv",
     primaryClass = "gr-qc",
-    doi = "10.1103/PhysRevD.96.082004",
-    journal = "Phys. Rev. D",
-    volume = "96",
-    number = "8",
-    pages = "082004",
-    year = "2017"
+    month = "12",
+    year = "2021"
 }
