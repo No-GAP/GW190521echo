@@ -12,10 +12,26 @@
 
 
 
-This repository is a companions to (ARXIV) (DOI). It contains the data presented in the paper and all necessary configuration files to replicate the results. We also provide Mathematica and Pyhton and scripts for reproducing many of the plots from the publication. 
+This repository is a companions to [arXiv:2201.00047](https://arxiv.org/abs/2201.00047). It contains the data presented in the paper and all necessary configuration files to replicate the results. We also provide Mathematica and Pyhton and scripts for reproducing many of the plots from the publication. 
 
 To keep the repository size manageable, we do not provide data from the injection stydies for the p-value and energy error estimation.
 To use the Boltzmann echo waveform molde with PyCBC code please use [this branch](https://github.com/jahedabedi/pycbc/tree/Boltzmann_echoes)
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
 (BIBTEX)
+
+We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
+
+@article{Abedi:2016hgu,
+    author = "Abedi, Jahed and Dykaar, Hannah and Afshordi, Niayesh",
+    title = "{Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons}",
+    eprint = "1612.00266",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    doi = "10.1103/PhysRevD.96.082004",
+    journal = "Phys. Rev. D",
+    volume = "96",
+    number = "8",
+    pages = "082004",
+    year = "2017"
+}
